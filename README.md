@@ -1,3 +1,3 @@
 # todoRN
-To-Do List with React-Native &amp; Mobx
+To-Do List with React-Native and Mobx
 Let's get it
